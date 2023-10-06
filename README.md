@@ -1,4 +1,5 @@
 # CoolHorseGame
-An interactive web browser game designed for my Computer Science 11 Final Project
+A web browser game designed using Javascript and HTML Canvas. All art and code was designed, written, and created by myself.
 
-Run the file horseTest.html in order to play the game.
+# Purpose/Motivation
+For my Computer Science 11 Final Project, I was tasked to design a game with one restriction: The game had to feature a horse.
