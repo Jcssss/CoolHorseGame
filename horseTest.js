@@ -520,7 +520,7 @@ function startGame () {
 	myPlatform.src = "images/platform.png";
 	myHorseJumpLeft.src = "images/jumpLeft.png";
 	myHorseJumpRight.src = "images/jumpRight.png";
-	myTrophy.src = "images/trophy.png";
+	myTrophy.src = "images/Trophy.png";
 	myWin.src = "images/win.png";
 	
 	// identif ies and get"s the context of the canvas
