@@ -540,6 +540,21 @@ function startGame () {
 		// gets the value of the key
 		myKey = e.keyCode;
 	}) // EventListener
+
+    window.addEventListener("touchstart", function (e) {
+		
+		// gets the value of the key
+		myKey = 32;
+
+	}) // EventListener
+
+    window.addEventListener("touchend", function (e) {
+		
+		// resets variables
+		myKey = false;
+		spaceIsPressed = false;
+	}) // EventListener
+
 	window.addEventListener("keyup", function (e) {
 		
 		// resets variables
